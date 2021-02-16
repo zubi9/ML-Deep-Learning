@@ -1,0 +1,5 @@
+Pandas methods
+1) DataFrame(array, columns=, index =)
+2) read_csv("path").head(insert value as many you want to see rows)
+3) read_html("path")
+4) read_json("path")
